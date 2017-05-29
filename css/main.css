@@ -1,6 +1,6 @@
 .contenedor{
 	height: 100%;
-	width: 50%;
+	width: 70%;
 	border: solid purple 1px;
 	position: relative;
 	margin-left: 100px;
@@ -17,4 +17,12 @@ li{
 	width: 20px;
 	border-radius: 50%;
 	border: solid gray 1px;
+}
+
+.mostrar{
+	display: block;
+}
+
+.ocultar{
+	display: none;
 }
